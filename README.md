@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @crazy3142 (CrazyPi) also known as Chandra.
-- 👀 I’m interested in becoming gigachad. 
-- 🌱 I’m currently learning to become ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, This is Chandra!
+- I mostly write scripts to speed up my workflow.
 
 <!---
 crazy3142/crazy3142 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
